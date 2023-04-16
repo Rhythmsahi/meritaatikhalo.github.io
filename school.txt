@@ -94,7 +94,7 @@
 		<a href="#">Contact Us</a>
 	</nav>
 	<section class="banner">
-		Welcome to My School
+		Welcome to DAFFODILS
 	</section>
 	<div class="content">
 		<div class="card">
